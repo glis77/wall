@@ -1,0 +1,201 @@
+{"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/63009781110",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/10331737120",
+      "backup_ads_banner":"db4d5e8718b97d780",
+      "backup_ads_intertitial":"518cd97722c60b520",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+    "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":2,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":3,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":4,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":5,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":6,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Mirabel Ecanto",
+      "image": "https://i.pinimg.com/564x/01/2b/74/012b7417eb6433d5b083d57807a86f8b.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Trending",
+      "image": "https://i.pinimg.com/564x/f9/83/e7/f983e7aa92ba3cb46f5bbe58622284b7.jpg"
+
+    }
+    
+  ],
+
+  "Data":
+  [
+	{		
+      "id"	:	"1",
+      "category"	:	"Mirabel Ecanto",
+      "title"	:	"Mirabel Ecanto 1",
+      "image_link"	:	"https://i.pinimg.com/564x/01/2b/74/012b7417eb6433d5b083d57807a86f8b.jpg"
+    },		
+    {		
+      "id"	:	"2",
+      "category"	:	"Mirabel Ecanto",
+      "title"	:	"Mirabel Ecanto 2",
+      "image_link"	:	"https://i.pinimg.com/564x/07/ab/d7/07abd7469de8c936f0ec478e991b1dd9.jpg"
+    },		
+    {		
+      "id"	:	"3",
+      "category"	:	"Mirabel Ecanto",
+      "title"	:	"Mirabel Ecanto 3",
+      "image_link"	:	"https://i.pinimg.com/564x/f9/83/e7/f983e7aa92ba3cb46f5bbe58622284b7.jpg"
+    },		
+    {		
+      "id"	:	"4",
+      "category"	:	"Mirabel Ecanto",
+      "title"	:	"Mirabel Ecanto 4",
+      "image_link"	:	"https://i.pinimg.com/564x/e4/c1/12/e4c112efd8af6a707ce30b772a86966e.jpg"
+    },		
+    {		
+      "id"	:	"5",
+      "category"	:	"Mirabel Ecanto",
+      "title"	:	"Mirabel Ecanto 5",
+      "image_link"	:	"https://i.pinimg.com/564x/47/eb/af/47ebafc711a5ee58b6194884063a345d.jpg"
+    },		
+    {		
+      "id"	:	"6",
+      "category"	:	"Mirabel Ecanto",
+      "title"	:	"Mirabel Ecanto 6",
+      "image_link"	:	"https://i.pinimg.com/564x/7a/b6/6d/7ab66de49afe9e0ad0c39a1e755b53be.jpg"
+    },		
+    {		
+      "id"	:	"7",
+      "category"	:	"Mirabel Ecanto",
+      "title"	:	"Mirabel Ecanto 7",
+      "image_link"	:	"https://i.pinimg.com/564x/64/91/ba/6491bacb78bbb4ad20359afcea01a858.jpg"
+    },		
+    {		
+      "id"	:	"8",
+      "category"	:	"Mirabel Ecanto",
+      "title"	:	"Mirabel Ecanto 8",
+      "image_link"	:	"https://i.pinimg.com/564x/32/70/1c/32701c3d8496872b6f2137cf2d6631da.jpg"
+    },		
+    {		
+      "id"	:	"9",
+      "category"	:	"Mirabel Ecanto",
+      "title"	:	"Mirabel Ecanto 9",
+      "image_link"	:	"https://i.pinimg.com/564x/fe/e2/e7/fee2e721ba2f1abb0e6786ae0bd0c946.jpg"
+    },		
+    {		
+      "id"	:	"10",
+      "category"	:	"Mirabel Ecanto",
+      "title"	:	"Mirabel Ecanto 10",
+      "image_link"	:	"https://i.pinimg.com/564x/87/dd/13/87dd1398ad4f1405a379f1695bc08ac1.jpg"
+    },
+	{		
+      "id"	:	"11",
+      "category"	:	"Trending",
+      "title"	:	"Mirabel Ecanto 11",
+      "image_link"	:	"https://i.pinimg.com/564x/49/9a/91/499a9166d829cdd6a9e77d047f793ca2.jpg"
+    },		
+    {		
+      "id"	:	"12",
+      "category"	:	"Trending",
+      "title"	:	"Mirabel Ecanto 12",
+      "image_link"	:	"https://i.pinimg.com/564x/fc/d1/e3/fcd1e30e2a6d509c66525dc47142f7f7.jpg"
+    },		
+    {		
+      "id"	:	"13",
+      "category"	:	"Trending",
+      "title"	:	"Mirabel Ecanto 13",
+      "image_link"	:	"https://i.pinimg.com/564x/6c/ae/e5/6caee5d94cbeff2e915ce81f1c6f8ad4.jpg"
+    },		
+    {		
+      "id"	:	"14",
+      "category"	:	"Trending",
+      "title"	:	"Mirabel Ecanto 14",
+      "image_link"	:	"https://i.pinimg.com/564x/0b/0f/bc/0b0fbc0917d99976fe9800ca4f947c51.jpg"
+    },		
+    {		
+      "id"	:	"15",
+      "category"	:	"Trending",
+      "title"	:	"Mirabel Ecanto 15",
+      "image_link"	:	"https://i.pinimg.com/564x/3a/d7/12/3ad712b17c5b05b75792228f178d17ae.jpg"
+    },		
+    {		
+      "id"	:	"16",
+      "category"	:	"Trending",
+      "title"	:	"Mirabel Ecanto 16",
+      "image_link"	:	"https://i.pinimg.com/564x/cc/12/72/cc1272287eff775b7c1d7fcf54112570.jpg"
+    },		
+    {		
+      "id"	:	"17",
+      "category"	:	"Trending",
+      "title"	:	"Mirabel Ecanto 17",
+      "image_link"	:	"https://i.pinimg.com/564x/e8/23/d7/e823d7be0f7a9f4a8923199741c7c026.jpg"
+    },		
+    {		
+      "id"	:	"18",
+      "category"	:	"Trending",
+      "title"	:	"Mirabel Ecanto 18",
+      "image_link"	:	"https://i.pinimg.com/564x/eb/7b/5c/eb7b5cd233f6972393fb797f1921ca9c.jpg"
+    },		
+    {		
+      "id"	:	"19",
+      "category"	:	"Trending",
+      "title"	:	"Mirabel Ecanto 19",
+      "image_link"	:	"https://i.pinimg.com/564x/49/fc/96/49fc968685d8f6f5c366ab4d34bc4c0d.jpg"
+    },		
+    {		
+      "id"	:	"20",
+      "category"	:	"Trending",
+      "title"	:	"Mirabel Ecanto 20",
+      "image_link"	:	"https://i.pinimg.com/564x/64/91/ba/6491bacb78bbb4ad20359afcea01a858.jpg"
+    }		
+
+  ]
+}
