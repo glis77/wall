@@ -1,0 +1,201 @@
+{"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/63009781110",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/10331737120",
+      "backup_ads_banner":"db4d5e8718b97d780",
+      "backup_ads_intertitial":"518cd97722c60b520",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+    "More":
+  [
+    {
+      "id":1,
+      "title":"Wallpaper Paralax",
+      "image":"https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+      "link":"https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+    },
+    {
+      "id":2,
+      "title":"Skin MCPE",
+      "image":"https://aliendro.id/uploads/images/202112/img_1920x_61b5c58e0d42c6-15280590-69156097.jpeg",
+      "link":"https://aliendro.id/alien-3d-skins-panorama-mcpe-114"
+    },
+    {
+      "id":3,
+      "title":"Fake Call",
+      "image":"file:///android_asset/more/fake.jpg",
+      "link":"https://aliendro.id/alien-fake-vv-call-v12-4"
+    },
+    {
+      "id":4,
+      "title":"Keyboard",
+      "image":"file:///android_asset/more/keyboard.jpeg",
+      "link":"https://aliendro.id/alien-theme-keyboard-online-offline-104"
+    },
+    {
+      "id":5,
+      "title":"Twibbon",
+      "image":"https://aliendro.id/uploads/images/202112/img_1920x_61bd755556b8e8-26297378-14235742.jpeg",
+      "link":"https://aliendro.id/alien-frame-campaign-json-offline-online-117"
+    },
+    {
+      "id":6,
+      "title":"Mp3 Player",
+      "image":"https://aliendro.id/uploads/images/202108/img_1920x_61283f5394bc13-47210190-94326655.jpeg",
+      "link":"https://aliendro.id/alien-mp3-player-v22-10"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Boboiboy",
+      "image": "https://i.pinimg.com/564x/46/3c/0d/463c0dcccad770682a5b98e8b10e2362.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Trending",
+      "image": "https://i.pinimg.com/564x/41/20/67/412067cd189aedbf6b5d329c12af32c1.jpg"
+
+    }
+    
+  ],
+
+  "Data":
+  [
+	{		
+      "id"	:	"1",
+      "category"	:	"Boboiboy",
+      "title"	:	"Boboiboy 1",
+      "image_link"	:	"https://i.pinimg.com/564x/7e/12/9e/7e129eb38803d77f7c3cc66e40cb97a6.jpg"
+    },		
+    {		
+      "id"	:	"2",
+      "category"	:	"Boboiboy",
+      "title"	:	"Boboiboy 2",
+      "image_link"	:	"https://i.pinimg.com/564x/46/3c/0d/463c0dcccad770682a5b98e8b10e2362.jpg"
+    },		
+    {		
+      "id"	:	"3",
+      "category"	:	"Boboiboy",
+      "title"	:	"Boboiboy 3",
+      "image_link"	:	"https://i.pinimg.com/564x/b8/c7/e2/b8c7e2d2992669be631a19cdd0e734a1.jpg"
+    },		
+    {		
+      "id"	:	"4",
+      "category"	:	"Boboiboy",
+      "title"	:	"Boboiboy 4",
+      "image_link"	:	"https://i.pinimg.com/564x/8f/4f/3d/8f4f3d7ef7261dd1c337ade834ead044.jpg"
+    },		
+    {		
+      "id"	:	"5",
+      "category"	:	"Boboiboy",
+      "title"	:	"Boboiboy 5",
+      "image_link"	:	"https://i.pinimg.com/564x/41/20/67/412067cd189aedbf6b5d329c12af32c1.jpg"
+    },		
+    {		
+      "id"	:	"6",
+      "category"	:	"Boboiboy",
+      "title"	:	"Boboiboy 6",
+      "image_link"	:	"https://i.pinimg.com/564x/fa/85/2d/fa852d9ecf7d881127e7be4401f8b3d3.jpg"
+    },		
+    {		
+      "id"	:	"7",
+      "category"	:	"Boboiboy",
+      "title"	:	"Boboiboy 7",
+      "image_link"	:	"https://i.pinimg.com/564x/1a/02/ad/1a02ad8c49dafe912734f21ddfca279f.jpg"
+    },		
+    {		
+      "id"	:	"8",
+      "category"	:	"Boboiboy",
+      "title"	:	"Boboiboy 8",
+      "image_link"	:	"https://i.pinimg.com/564x/4f/8b/e0/4f8be0f11a6759e1093e59987617e605.jpg"
+    },		
+    {		
+      "id"	:	"9",
+      "category"	:	"Boboiboy",
+      "title"	:	"Boboiboy 9",
+      "image_link"	:	"https://i.pinimg.com/564x/d5/ab/a8/d5aba80c6ac4ef2fb4f968ad465d6b42.jpg"
+    },		
+    {		
+      "id"	:	"10",
+      "category"	:	"Boboiboy",
+      "title"	:	"Boboiboy 10",
+      "image_link"	:	"https://i.pinimg.com/564x/c2/da/36/c2da36f51310cd2188efd5072d7fa770.jpg"
+    }		,
+	{		
+      "id"	:	"11",
+      "category"	:	"Boboiboy",
+      "title"	:	"Boboiboy 11",
+      "image_link"	:	"https://i.pinimg.com/564x/90/38/7b/90387b48d55aad8b213bdd7b065884d4.jpg"
+    },		
+    {		
+      "id"	:	"12",
+      "category"	:	"Boboiboy",
+      "title"	:	"Boboiboy 12",
+      "image_link"	:	"https://i.pinimg.com/564x/8c/34/85/8c34857735a2954d5c2484f14c6370bb.jpg"
+    },		
+    {		
+      "id"	:	"13",
+      "category"	:	"Boboiboy",
+      "title"	:	"Boboiboy 13",
+      "image_link"	:	"https://i.pinimg.com/564x/2b/90/0e/2b900e2ef216ba2bc75ae6e4df2bdfc0.jpg"
+    },		
+    {		
+      "id"	:	"14",
+      "category"	:	"Boboiboy",
+      "title"	:	"Boboiboy 14",
+      "image_link"	:	"https://i.pinimg.com/564x/e8/fe/b4/e8feb49d3fb777b1bb364d7bf16fb3bf.jpg"
+    },		
+    {		
+      "id"	:	"15",
+      "category"	:	"Boboiboy",
+      "title"	:	"Boboiboy 15",
+      "image_link"	:	"https://i.pinimg.com/564x/3e/b9/4d/3eb94d17bcae2e4f8b0312d41387da8a.jpg"
+    },		
+    {		
+      "id"	:	"16",
+      "category"	:	"Boboiboy",
+      "title"	:	"Boboiboy 16",
+      "image_link"	:	"https://i.pinimg.com/564x/f1/40/94/f140943a4d02cba932b575990e38274c.jpg"
+    },		
+    {		
+      "id"	:	"17",
+      "category"	:	"Boboiboy",
+      "title"	:	"Boboiboy 17",
+      "image_link"	:	"https://i.pinimg.com/564x/18/06/1e/18061e40cac50966a0c4089c036efd24.jpg"
+    },		
+    {		
+      "id"	:	"18",
+      "category"	:	"Boboiboy",
+      "title"	:	"Boboiboy 18",
+      "image_link"	:	"https://i.pinimg.com/564x/e8/ea/20/e8ea20d26e14fd74ec307ed7f19d462c.jpg"
+    },		
+    {		
+      "id"	:	"19",
+      "category"	:	"Boboiboy",
+      "title"	:	"Boboiboy 19",
+      "image_link"	:	"https://i.pinimg.com/564x/7c/a0/60/7ca06063f41c7dd2ee75427cc2ac76bb.jpg"
+    },		
+    {		
+      "id"	:	"20",
+      "category"	:	"Boboiboy",
+      "title"	:	"Boboiboy 20",
+      "image_link"	:	"https://i.pinimg.com/564x/ab/b0/b2/abb0b25094220211955bdf3494fba1d4.jpg"
+    }		
+
+  ]
+}
