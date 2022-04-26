@@ -78,321 +78,321 @@
   [
 	{		
       "id"	:	"1",
-      "category"	:	"Shinbi House",
+      "name_category"	:	"Shinbi House",
       "title"	:	"Shinbi House 1",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar1.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar1.jpg"
     },		
     {		
       "id"	:	"2",
-      "category"	:	"Shinbi House",
+      "name_category"	:	"Shinbi House",
       "title"	:	"Shinbi House 2",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar10.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar10.jpg"
     },		
     {		
       "id"	:	"3",
-      "category"	:	"Shinbi House",
+      "name_category"	:	"Shinbi House",
       "title"	:	"Shinbi House 3",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar11.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar11.jpg"
     },		
     {		
       "id"	:	"4",
-      "category"	:	"Shinbi House",
+      "name_category"	:	"Shinbi House",
       "title"	:	"Shinbi House 4",
-      "image_link"	:	"https://archive.org/download/gambar12/gambar12.jpg"
+      "image"	:	"https://archive.org/download/gambar12/gambar12.jpg"
     },		
     {		
       "id"	:	"5",
-      "category"	:	"Shinbi House",
+      "name_category"	:	"Shinbi House",
       "title"	:	"Shinbi House 5",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar13.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar13.jpg"
     },		
     {		
       "id"	:	"6",
-      "category"	:	"Shinbi House",
+      "name_category"	:	"Shinbi House",
       "title"	:	"Shinbi House 6",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar14.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar14.jpg"
     },		
     {		
       "id"	:	"7",
-      "category"	:	"Shinbi House",
+      "name_category"	:	"Shinbi House",
       "title"	:	"Shinbi House 7",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar15.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar15.jpg"
     },		
     {		
       "id"	:	"8",
-      "category"	:	"Shinbi House",
+      "name_category"	:	"Shinbi House",
       "title"	:	"Shinbi House 8",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar16.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar16.jpg"
     },		
     {		
       "id"	:	"9",
-      "category"	:	"Shinbi House",
+      "name_category"	:	"Shinbi House",
       "title"	:	"Shinbi House 9",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar17.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar17.jpg"
     },		
     {		
       "id"	:	"10",
-      "category"	:	"Shinbi House",
+      "name_category"	:	"Shinbi House",
       "title"	:	"Shinbi House 10",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar18.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar18.jpg"
     },
 	{		
       "id"	:	"11",
-      "category"	:	"Shinbi House",
+      "name_category"	:	"Shinbi House",
       "title"	:	"Shinbi House 11",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar19.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar19.jpg"
     },		
     {		
       "id"	:	"12",
-      "category"	:	"Shinbi House",
+      "name_category"	:	"Shinbi House",
       "title"	:	"Shinbi House 12",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar2.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar2.jpg"
     },		
     {		
       "id"	:	"13",
-      "category"	:	"Shinbi House",
+      "name_category"	:	"Shinbi House",
       "title"	:	"Shinbi House 13",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar20.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar20.jpg"
     },		
     {		
       "id"	:	"14",
-      "category"	:	"Shinbi House",
+      "name_category"	:	"Shinbi House",
       "title"	:	"Shinbi House 14",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar21.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar21.jpg"
     },		
     {		
       "id"	:	"15",
-      "category"	:	"Shinbi House",
+      "name_category"	:	"Shinbi House",
       "title"	:	"Shinbi House 15",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar22.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar22.jpg"
     },		
     {		
       "id"	:	"16",
-      "category"	:	"Shinbi House",
+      "name_category"	:	"Shinbi House",
       "title"	:	"Shinbi House 16",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar23.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar23.jpg"
     },		
     {		
       "id"	:	"17",
-      "category"	:	"Shinbi House",
+      "name_category"	:	"Shinbi House",
       "title"	:	"Shinbi House 17",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar24.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar24.jpg"
     },		
     {		
       "id"	:	"18",
-      "category"	:	"Shinbi House",
+      "name_category"	:	"Shinbi House",
       "title"	:	"Shinbi House 18",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar25.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar25.jpg"
     },		
     {		
       "id"	:	"19",
-      "category"	:	"Shinbi House",
+      "name_category"	:	"Shinbi House",
       "title"	:	"Shinbi House 19",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar26.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar26.jpg"
     },		
     {		
       "id"	:	"20",
-      "category"	:	"Shinbi House",
+      "name_category"	:	"Shinbi House",
       "title"	:	"Shinbi House 20",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar27.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar27.jpg"
     },		
 	{		
       "id"	:	"21",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 21",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar28.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar28.jpg"
     },		
     {		
       "id"	:	"22",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 22",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar29.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar29.jpg"
     },		
     {		
       "id"	:	"23",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 23",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar3.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar3.jpg"
     },		
     {		
       "id"	:	"24",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 24",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar30.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar30.jpg"
     },		
     {		
       "id"	:	"25",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 25",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar31.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar31.jpg"
     },		
     {		
       "id"	:	"26",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 26",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar32.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar32.jpg"
     },		
     {		
       "id"	:	"27",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 27",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar33.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar33.jpg"
     },		
     {		
       "id"	:	"28",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 28",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar34.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar34.jpg"
     },		
     {		
       "id"	:	"29",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 29",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar35.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar35.jpg"
     },		
     {		
       "id"	:	"30",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 30",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar36.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar36.jpg"
     },
 	{		
       "id"	:	"31",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 31",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar37.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar37.jpg"
     },		
     {		
       "id"	:	"32",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 32",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar38.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar38.jpg"
     },		
     {		
       "id"	:	"33",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 33",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar39.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar39.jpg"
     },		
     {		
       "id"	:	"34",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 34",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar4.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar4.jpg"
     },		
     {		
       "id"	:	"35",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 35",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar40.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar40.jpg"
     },		
     {		
       "id"	:	"36",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 36",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar41.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar41.jpg"
     },		
     {		
       "id"	:	"37",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 37",
-      "image_link"	:	"https://ia801401.us.archive.org/29/items/gambar12/gambar42.jpg"
+      "image"	:	"https://ia801401.us.archive.org/29/items/gambar12/gambar42.jpg"
     },		
     {		
       "id"	:	"38",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 38",
-      "image_link"	:	"https://ia801401.us.archive.org/29/items/gambar12/gambar43.jpg"
+      "image"	:	"https://ia801401.us.archive.org/29/items/gambar12/gambar43.jpg"
     },		
     {		
       "id"	:	"39",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 39",
-      "image_link"	:	"https://ia801401.us.archive.org/29/items/gambar12/gambar44.jpg"
+      "image"	:	"https://ia801401.us.archive.org/29/items/gambar12/gambar44.jpg"
     },		
     {		
       "id"	:	"40",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 40",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar45.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar45.jpg"
     },	
 	{		
       "id"	:	"41",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 41",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar46.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar46.jpg"
     },		
     {		
       "id"	:	"42",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 42",
-      "image_link"	:	"https://ia801401.us.archive.org/29/items/gambar12/gambar47.jpg"
+      "image"	:	"https://ia801401.us.archive.org/29/items/gambar12/gambar47.jpg"
     },		
     {		
       "id"	:	"43",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 43",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar48.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar48.jpg"
     },		
     {		
       "id"	:	"44",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 44",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar49.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar49.jpg"
     },		
     {		
       "id"	:	"45",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 45",
-      "image_link"	:	"https://ia801401.us.archive.org/29/items/gambar12/gambar5.jpg"
+      "image"	:	"https://ia801401.us.archive.org/29/items/gambar12/gambar5.jpg"
     },		
     {		
       "id"	:	"46",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 46",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar50.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar50.jpg"
     },		
     {		
       "id"	:	"47",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 47",
-      "image_link"	:	"https://ia801401.us.archive.org/29/items/gambar12/gambar51.jpg"
+      "image"	:	"https://ia801401.us.archive.org/29/items/gambar12/gambar51.jpg"
     },		
     {		
       "id"	:	"48",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 48",
-      "image_link"	:	"https://ia801401.us.archive.org/29/items/gambar12/gambar52.jpg"
+      "image"	:	"https://ia801401.us.archive.org/29/items/gambar12/gambar52.jpg"
     },		
     {		
       "id"	:	"49",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 49",
-      "image_link"	:	"https://ia801401.us.archive.org/29/items/gambar12/gambar53.jpg"
+      "image"	:	"https://ia801401.us.archive.org/29/items/gambar12/gambar53.jpg"
     },		
     {		
       "id"	:	"50",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 50",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar6.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar6.jpg"
     },
 	{		
       "id"	:	"51",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 51",
-      "image_link"	:	"https://ia801401.us.archive.org/29/items/gambar12/gambar7.jpg"
+      "image"	:	"https://ia801401.us.archive.org/29/items/gambar12/gambar7.jpg"
     },		
     {		
       "id"	:	"52",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 52",
-      "image_link"	:	"https://ia801401.us.archive.org/29/items/gambar12/gambar8.jpg"
+      "image"	:	"https://ia801401.us.archive.org/29/items/gambar12/gambar8.jpg"
     },		
     {		
       "id"	:	"53",
-      "category"	:	"Trending",
+      "name_category"	:	"Trending",
       "title"	:	"Shinbi House 53",
-      "image_link"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar9.jpg"
+      "image"	:	"https://ia601401.us.archive.org/29/items/gambar12/gambar9.jpg"
     }
   ]
 }
