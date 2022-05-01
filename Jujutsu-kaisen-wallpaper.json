@@ -1,0 +1,259 @@
+{"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/63009781110",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/10331737120",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+    "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":2,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":3,
+      "title":"l",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":4,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":5,
+      "title":"Twibbon",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":6,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Jujutsu Kaisen Wallpaper",
+      "image": "https://i.pinimg.com/564x/69/d1/76/69d17635ad2d9d0d69b5af4252804475.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Trending",
+      "image": "https://i.pinimg.com/564x/29/8a/90/298a906cac8302754908b44650fd94f5.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+	{		
+      "id"	:	"1",
+      "name_category"	:"Jujutsu Kaisen Wallpaper",
+      "title"	:	"Jujutsu Kaisen Wallpaper 1",
+      "image"	:	"https://i.pinimg.com/564x/ef/7c/3b/ef7c3b083da097f551ed962ca0ba895a.jpg"
+    },		
+    {		
+      "id"	:	"2",
+      "name_category"	:"Jujutsu Kaisen Wallpaper",
+      "title"	:	"Jujutsu Kaisen Wallpaper 2",
+      "image"	:	"https://i.pinimg.com/564x/8e/3e/a3/8e3ea3739340bbbb697e7d5e0072f22d.jpg"
+    },		
+    {		
+      "id"	:	"3",
+      "name_category"	:"Jujutsu Kaisen Wallpaper",
+      "title"	:	"Jujutsu Kaisen Wallpaper 3",
+      "image"	:	"https://i.pinimg.com/564x/bc/b7/b7/bcb7b70b3f8fefa4fe374dbb4724a431.jpg"
+    },		
+    {		
+      "id"	:	"4",
+      "name_category"	:"Jujutsu Kaisen Wallpaper",
+      "title"	:	"Jujutsu Kaisen Wallpaper 4",
+      "image"	:	"https://i.pinimg.com/564x/da/8c/a9/da8ca91b729868752c6d63ec2cafe950.jpg"
+    },		
+    {		
+      "id"	:	"5",
+      "name_category"	:"Jujutsu Kaisen Wallpaper",
+      "title"	:	"Jujutsu Kaisen Wallpaper 5",
+      "image"	:	"https://i.pinimg.com/564x/b8/f7/08/b8f708e59537d4f0af4e0628f36f8718.jpg"
+    },		
+    {		
+      "id"	:	"6",
+      "name_category"	:"Jujutsu Kaisen Wallpaper",
+      "title"	:	"Jujutsu Kaisen Wallpaper 6",
+      "image"	:	"https://i.pinimg.com/564x/36/7c/8e/367c8eed093b6d1af02ee3e8b878f4c5.jpg"
+    },		
+    {		
+      "id"	:	"7",
+      "name_category"	:"Jujutsu Kaisen Wallpaper",
+      "title"	:	"Jujutsu Kaisen Wallpaper 7",
+      "image"	:	"https://i.pinimg.com/564x/09/61/37/096137a98b3ec193f61b5ce3cbdf23d8.jpg"
+    },		
+    {		
+      "id"	:	"8",
+      "name_category"	:"Jujutsu Kaisen Wallpaper",
+      "title"	:	"Jujutsu Kaisen Wallpaper 8",
+      "image"	:	"https://i.pinimg.com/564x/5a/42/6e/5a426e11e381b60a47460c368ea90973.jpg"
+    },		
+    {		
+      "id"	:	"9",
+      "name_category"	:"Jujutsu Kaisen Wallpaper",
+      "title"	:	"Jujutsu Kaisen Wallpaper 9",
+      "image"	:	"https://i.pinimg.com/564x/69/d1/76/69d17635ad2d9d0d69b5af4252804475.jpg"
+    },		
+    {		
+      "id"	:	"10",
+      "name_category"	:"Jujutsu Kaisen Wallpaper",
+      "title"	:	"Jujutsu Kaisen Wallpaper 10",
+      "image"	:	"https://i.pinimg.com/564x/f0/de/8c/f0de8c94133a763a0acd9004792b0434.jpg"
+    },
+{		
+      "id"	:	"11",
+      "name_category"	:"Jujutsu Kaisen Wallpaper",
+      "title"	:	"Jujutsu Kaisen Wallpaper 11",
+      "image"	:	"https://i.pinimg.com/564x/33/b3/66/33b3661e00c05d438788610e32315b62.jpg"
+    },		
+    {		
+      "id"	:	"12",
+      "name_category"	:"Jujutsu Kaisen Wallpaper",
+      "title"	:	"Jujutsu Kaisen Wallpaper 12",
+      "image"	:	"https://i.pinimg.com/564x/90/39/7d/90397d3eeb91d253800ebfd2d9daa465.jpg"
+    },		
+    {		
+      "id"	:	"13",
+      "name_category"	:"Jujutsu Kaisen Wallpaper",
+      "title"	:	"Jujutsu Kaisen Wallpaper 13",
+      "image"	:	"https://i.pinimg.com/564x/39/0f/1b/390f1bbae17e3466585118e3e443c812.jpg"
+    },		
+    {		
+      "id"	:	"14",
+      "name_category"	:"Jujutsu Kaisen Wallpaper",
+      "title"	:	"Jujutsu Kaisen Wallpaper 14",
+      "image"	:	"https://i.pinimg.com/564x/89/e0/4e/89e04e6751d91bc350d31d5a8b6cec24.jpg"
+    },		
+    {		
+      "id"	:	"15",
+      "name_category"	:"Jujutsu Kaisen Wallpaper",
+      "title"	:	"Jujutsu Kaisen Wallpaper 15",
+      "image"	:	"https://i.pinimg.com/564x/09/e5/31/09e531726575e5a4c4b154ec03a0a5c5.jpg"
+    },		
+    {		
+      "id"	:	"16",
+      "name_category"	:"Jujutsu Kaisen Wallpaper",
+      "title"	:	"Jujutsu Kaisen Wallpaper 16",
+      "image"	:	"https://i.pinimg.com/564x/8d/95/a3/8d95a3732160e3f9a738473e09b1f7d4.jpg"
+    },		
+    {		
+      "id"	:	"17",
+      "name_category"	:	"Jujutsu Kaisen Wallpaper",
+      "title"	:	"Jujutsu Kaisen Wallpaper 17",
+      "image"	:	"https://i.pinimg.com/564x/0e/23/b3/0e23b3f1a1478b1dd810a13a6a7497e0.jpg"
+    },		
+    {		
+      "id"	:	"18",
+      "name_category"	:	"Jujutsu Kaisen Wallpaper",
+      "title"	:	"Jujutsu Kaisen Wallpaper 18",
+      "image"	:	"https://i.pinimg.com/564x/e2/a0/2d/e2a02dbfee021baeae1e22a7c365993f.jpg"
+    },		
+    {		
+      "id"	:	"19",
+      "name_category"	:	"Jujutsu Kaisen Wallpaper",
+      "title"	:	"Jujutsu Kaisen Wallpaper 19",
+      "image"	:	"https://i.pinimg.com/564x/4f/22/cf/4f22cfe52a8a020d5aadb0e3aeb175e5.jpg"
+    },		
+    {		
+      "id"	:	"20",
+      "name_category"	:	"Jujutsu Kaisen Wallpaper",
+      "title"	:	"Jujutsu Kaisen Wallpaper 20",
+      "image"	:	"https://i.pinimg.com/564x/50/79/38/507938a4086f4f6c8265635a15f1f2cb.jpg"
+    },		
+	{		
+      "id"	:	"21",
+      "name_category"	:	"Trending",
+      "title"	:	"Jujutsu Kaisen Wallpaper 21",
+      "image"	:	"https://i.pinimg.com/564x/3a/89/65/3a8965d00692a8dc70ece0c7b586e773.jpg"
+    },		
+    {		
+      "id"	:	"22",
+      "name_category"	:	"Trending",
+      "title"	:	"Jujutsu Kaisen Wallpaper 22",
+      "image"	:	"https://i.pinimg.com/564x/ed/ef/8e/edef8e68f84f58548a3d604930a601a8.jpg"
+    },		
+    {		
+      "id"	:	"23",
+      "name_category"	:	"Trending",
+      "title"	:	"Jujutsu Kaisen Wallpaper 23",
+      "image"	:	"https://i.pinimg.com/564x/26/01/d5/2601d5abb62d59f412d1767f06ee6c20.jpg"
+    },		
+    {		
+      "id"	:	"24",
+      "name_category"	:	"Trending",
+      "title"	:	"Jujutsu Kaisen Wallpaper 24",
+      "image"	:	"https://i.pinimg.com/564x/8f/c7/d9/8fc7d934d7d0afc200d12665b6e3d7d4.jpg"
+    },		
+    {		
+      "id"	:	"25",
+      "name_category"	:	"Trending",
+      "title"	:	"Jujutsu Kaisen Wallpaper 25",
+      "image"	:	"https://i.pinimg.com/564x/fd/6b/17/fd6b17545be1239fa804b875be1ec1ad.jpg"
+    },		
+    {		
+      "id"	:	"26",
+      "name_category"	:	"Trending",
+      "title"	:	"Jujutsu Kaisen Wallpaper 26",
+      "image"	:	"https://i.pinimg.com/564x/0b/24/33/0b24333a05463731f55a4b6854bc893f.jpg"
+    },		
+    {		
+      "id"	:	"27",
+      "name_category"	:	"Trending",
+      "title"	:	"Jujutsu Kaisen Wallpaper 27",
+      "image"	:	"https://i.pinimg.com/564x/64/a7/88/64a788505aa5534eeba3703c3126d74e.jpg"
+    },		
+    {		
+      "id"	:	"28",
+      "name_category"	:	"Trending",
+      "title"	:	"Jujutsu Kaisen Wallpaper 28",
+      "image"	:	"https://i.pinimg.com/564x/29/8a/90/298a906cac8302754908b44650fd94f5.jpg"
+    },		
+    {		
+      "id"	:	"29",
+      "name_category"	:	"Trending",
+      "title"	:	"Jujutsu Kaisen Wallpaper 29",
+      "image"	:	"https://i.pinimg.com/564x/53/4b/38/534b38f4a9369dcc249b7dd30d08df24.jpg"
+    },		
+    {		
+      "id"	:	"30",
+      "name_category"	:	"Trending",
+      "title"	:	"Jujutsu Kaisen Wallpaper 30",
+      "image"	:	"https://i.pinimg.com/564x/52/48/5b/52485bf6c3a2c71341ffe889d6e84673.jpg"
+    }		
+  ]
+}
