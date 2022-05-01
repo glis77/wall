@@ -1,0 +1,260 @@
+{"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 1,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+    "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":2,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":3,
+      "title":"l",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":4,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":5,
+      "title":"Twibbon",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":6,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Nezuko Wallpaper",
+      "image": "https://i.pinimg.com/564x/89/a2/c7/89a2c76e179efb4cb0c6b4ba27e0b33d.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Trending",
+      "image": "https://i.pinimg.com/564x/af/f1/26/aff12616ede7fc0b700de1cc39fdeab8.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+	{		
+      "id"	:	"1",
+      "name_category"	:	"Nezuko Wallpaper",
+      "title"	:	"Nezuko Wallpaper 1",
+      "image"	:	"https://i.pinimg.com/564x/ee/f4/e6/eef4e676b1f5c7418cb083019614564b.jpg"
+    },		
+    {		
+      "id"	:	"2",
+      "name_category"	:	"Nezuko Wallpaper",
+      "title"	:	"Nezuko Wallpaper 2",
+      "image"	:	"https://i.pinimg.com/564x/89/a2/c7/89a2c76e179efb4cb0c6b4ba27e0b33d.jpg"
+    },		
+    {		
+      "id"	:	"3",
+      "name_category"	:	"Nezuko Wallpaper",
+      "title"	:	"Nezuko Wallpaper 3",
+      "image"	:	"https://i.pinimg.com/564x/d8/85/13/d8851356ce14df4fe67baabd68163499.jpg"
+    },		
+    {		
+      "id"	:	"4",
+      "name_category"	:	"Nezuko Wallpaper",
+      "title"	:	"Nezuko Wallpaper 4",
+      "image"	:	"https://i.pinimg.com/564x/44/cb/8d/44cb8d41ad643e5a21653881c94af5c4.jpg"
+    },		
+    {		
+      "id"	:	"5",
+      "name_category"	:	"Nezuko Wallpaper",
+      "title"	:	"Nezuko Wallpaper 5",
+      "image"	:	"https://i.pinimg.com/564x/36/93/06/3693066947a5f2456fdaccbe08fc376f.jpg"
+    },		
+    {		
+      "id"	:	"6",
+      "name_category"	:	"Nezuko Wallpaper",
+      "title"	:	"Nezuko Wallpaper 6",
+      "image"	:	"https://i.pinimg.com/564x/2f/cd/77/2fcd7782db364def1c1035110daed33b.jpg"
+    },		
+    {		
+      "id"	:	"7",
+      "name_category"	:	"Nezuko Wallpaper",
+      "title"	:	"Nezuko Wallpaper 7",
+      "image"	:	"https://i.pinimg.com/564x/2e/6b/2b/2e6b2bd54023bb41fd6b9f2dad150825.jpg"
+    },		
+    {		
+      "id"	:	"8",
+      "name_category"	:	"Nezuko Wallpaper",
+      "title"	:	"Nezuko Wallpaper 8",
+      "image"	:	"https://i.pinimg.com/564x/07/4b/b7/074bb7d5744eba46bd5ead7d5972e8d0.jpg"
+    },		
+    {		
+      "id"	:	"9",
+      "name_category"	:	"Nezuko Wallpaper",
+      "title"	:	"Nezuko Wallpaper 9",
+      "image"	:	"https://i.pinimg.com/564x/40/88/0b/40880b4a4a64c3f16c8c17f5e4e2936c.jpg"
+    },		
+    {		
+      "id"	:	"10",
+      "name_category"	:	"Nezuko Wallpaper",
+      "title"	:	"Nezuko Wallpaper 10",
+      "image"	:	"https://i.pinimg.com/564x/3c/94/07/3c94074dfe9259516adcb8d5b9d9eb4a.jpg"
+    },
+	{		
+      "id"	:	"11",
+      "name_category"	:	"Trending",
+      "title"	:	"Nezuko Wallpaper 11",
+      "image"	:	"https://i.pinimg.com/564x/bf/81/a1/bf81a147f7378b6bff05e7f89b94b01f.jpg"
+    },		
+    {		
+      "id"	:	"12",
+      "name_category"	:	"Trending",
+      "title"	:	"Nezuko Wallpaper 12",
+      "image"	:	"https://i.pinimg.com/564x/c6/db/dd/c6dbdd1c8568eb4eee2e75e13044c96a.jpg"
+    },		
+    {		
+      "id"	:	"13",
+      "name_category"	:	"Trending",
+      "title"	:	"Nezuko Wallpaper 13",
+      "image"	:	"https://i.pinimg.com/564x/52/48/9a/52489ab27b82bc7965837a7468befedc.jpg"
+    },		
+    {		
+      "id"	:	"14",
+      "name_category"	:	"Trending",
+      "title"	:	"Nezuko Wallpaper 14",
+      "image"	:	"https://i.pinimg.com/564x/d3/bf/e3/d3bfe3e8a205384be28787d44dd75d4e.jpg"
+    },		
+    {		
+      "id"	:	"15",
+      "name_category"	:	"Trending",
+      "title"	:	"Nezuko Wallpaper 15",
+      "image"	:	"https://i.pinimg.com/564x/c5/bc/a5/c5bca59f84711d2361da0bd4d40489c7.jpg"
+    },		
+    {		
+      "id"	:	"16",
+      "name_category"	:	"Trending",
+      "title"	:	"Nezuko Wallpaper 16",
+      "image"	:	"https://i.pinimg.com/564x/fb/a2/0a/fba20a06b070e1e3a2ba8c46a95b159c.jpg"
+    },		
+    {		
+      "id"	:	"17",
+      "name_category"	:	"Trending",
+      "title"	:	"Nezuko Wallpaper 17",
+      "image"	:	"https://i.pinimg.com/564x/8f/cf/67/8fcf67cb5682e5b719846bbd0fd23cc2.jpg"
+    },		
+    {		
+      "id"	:	"18",
+      "name_category"	:	"Trending",
+      "title"	:	"Nezuko Wallpaper 18",
+      "image"	:	"https://i.pinimg.com/564x/13/a4/01/13a40145cf293b369a0b9006ed19241d.jpg"
+    },		
+    {		
+      "id"	:	"19",
+      "name_category"	:	"Trending",
+      "title"	:	"Nezuko Wallpaper 19",
+      "image"	:	"https://i.pinimg.com/564x/af/f1/26/aff12616ede7fc0b700de1cc39fdeab8.jpg"
+    },		
+    {		
+      "id"	:	"20",
+      "name_category"	:	"Trending",
+      "title"	:	"Nezuko Wallpaper 20",
+      "image"	:	"https://i.pinimg.com/564x/a4/db/7d/a4db7da696812e70b46c5f7e95f5776c.jpg"
+    },		
+	{		
+      "id"	:	"21",
+      "name_category"	:	"Trending",
+      "title"	:	"Nezuko Wallpaper 21",
+      "image"	:	"https://i.pinimg.com/564x/ce/77/f9/ce77f928026e575380d980a338bc222f.jpg"
+    },		
+    {		
+      "id"	:	"22",
+      "name_category"	:	"Trending",
+      "title"	:	"Nezuko Wallpaper 22",
+      "image"	:	"https://i.pinimg.com/564x/c8/97/08/c89708fa48d9cc6a4b6d59b409126018.jpg"
+    },		
+    {		
+      "id"	:	"23",
+      "name_category"	:	"Trending",
+      "title"	:	"Nezuko Wallpaper 23",
+      "image"	:	"https://i.pinimg.com/564x/24/53/65/2453650e0fa159806936ead0f26d651a.jpg"
+    },		
+    {		
+      "id"	:	"24",
+      "name_category"	:	"Trending",
+      "title"	:	"Nezuko Wallpaper 24",
+      "image"	:	"https://i.pinimg.com/564x/26/1d/4b/261d4b0696bd1892a0e01939110cbbb4.jpg"
+    },		
+    {		
+      "id"	:	"25",
+      "name_category"	:	"Trending",
+      "title"	:	"Nezuko Wallpaper 25",
+      "image"	:	"https://i.pinimg.com/564x/56/4e/d5/564ed5214820a080f02ea8d08a4e5890.jpg"
+    },		
+    {		
+      "id"	:	"26",
+      "name_category"	:	"Trending",
+      "title"	:	"Nezuko Wallpaper 26",
+      "image"	:	"https://i.pinimg.com/564x/08/25/98/082598459a60df54f5c7b95abbaacd0f.jpg"
+    },		
+    {		
+      "id"	:	"27",
+      "name_category"	:	"Trending",
+      "title"	:	"Nezuko Wallpaper 27",
+      "image"	:	"https://i.pinimg.com/564x/0e/b1/e5/0eb1e5e787ce7d4afbc88b3f192ad2b0.jpg"
+    },		
+    {		
+      "id"	:	"28",
+      "name_category"	:	"Trending",
+      "title"	:	"Nezuko Wallpaper 28",
+      "image"	:	"https://i.pinimg.com/564x/cf/3c/52/cf3c529c50f14dbc291464cae5742892.jpg"
+    },		
+    {		
+      "id"	:	"29",
+      "name_category"	:	"Trending",
+      "title"	:	"Nezuko Wallpaper 29",
+      "image"	:	"https://i.pinimg.com/564x/e2/41/3c/e2413c271985515b46a8fddbc5befce7.jpg"
+    },		
+    {		
+      "id"	:	"30",
+      "name_category"	:	"Trending",
+      "title"	:	"Nezuko Wallpaper 30",
+      "image"	:	"https://i.pinimg.com/564x/e1/c8/9d/e1c89d5c86869d88fd28abafd0845340.jpg"
+    }		
+
+  ]
+}
