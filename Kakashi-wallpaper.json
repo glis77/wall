@@ -1,0 +1,260 @@
+{"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+    "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":2,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":3,
+      "title":"l",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":4,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":5,
+      "title":"Twibbon",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":6,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Kakashi Wallpaper",
+      "image": "https://i.pinimg.com/564x/ce/a7/0c/cea70cdd549c53bd68b8f1145503db66.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Trending",
+      "image": "https://i.pinimg.com/564x/ab/37/de/ab37deb43679628f09aa97e9f9dd23f7.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+		{		
+      "id"	:	"1",
+      "name_category"	:	"Kakashi Wallpaper",
+      "title"	:	"Kakashi Wallpaper 1",
+      "image"	:	"https://i.pinimg.com/564x/48/13/ed/4813eddda770ed84a440e9f82c9de253.jpg"
+    },		
+    {		
+      "id"	:	"2",
+      "name_category"	:	"Kakashi Wallpaper",
+      "title"	:	"Kakashi Wallpaper 2",
+      "image"	:	"https://i.pinimg.com/564x/ce/a7/0c/cea70cdd549c53bd68b8f1145503db66.jpg"
+    },		
+    {		
+      "id"	:	"3",
+      "name_category"	:	"Kakashi Wallpaper",
+      "title"	:	"Kakashi Wallpaper 3",
+      "image"	:	"https://i.pinimg.com/564x/dc/d1/67/dcd1673327c35db5efc514b40dbc4069.jpg"
+    },		
+    {		
+      "id"	:	"4",
+      "name_category"	:	"Kakashi Wallpaper",
+      "title"	:	"Kakashi Wallpaper 4",
+      "image"	:	"https://i.pinimg.com/564x/97/24/0b/97240b5e72974255904dec48684e241a.jpg"
+    },		
+    {		
+      "id"	:	"5",
+      "name_category"	:	"Kakashi Wallpaper",
+      "title"	:	"Kakashi Wallpaper 5",
+      "image"	:	"https://i.pinimg.com/564x/da/d2/90/dad2904032582a7ec35356d010e6917f.jpg"
+    },		
+    {		
+      "id"	:	"6",
+      "name_category"	:	"Kakashi Wallpaper",
+      "title"	:	"Kakashi Wallpaper 6",
+      "image"	:	"https://i.pinimg.com/564x/e5/d8/71/e5d8714925463058ec20f967b6fe6254.jpg"
+    },		
+    {		
+      "id"	:	"7",
+      "name_category"	:	"Kakashi Wallpaper",
+      "title"	:	"Kakashi Wallpaper 7",
+      "image"	:	"https://i.pinimg.com/564x/7f/c6/2d/7fc62d480f80aa0515c91e61f43cb574.jpg"
+    },		
+    {		
+      "id"	:	"8",
+      "name_category"	:	"Kakashi Wallpaper",
+      "title"	:	"Kakashi Wallpaper 8",
+      "image"	:	"https://i.pinimg.com/564x/b8/a6/93/b8a6936299abd1ac2b57ff7482d75d8a.jpg"
+    },		
+    {		
+      "id"	:	"9",
+      "name_category"	:	"Kakashi Wallpaper",
+      "title"	:	"Kakashi Wallpaper 9",
+      "image"	:	"https://i.pinimg.com/564x/20/21/aa/2021aaf7565989f4148ea604a44162b0.jpg"
+    },		
+    {		
+      "id"	:	"10",
+      "name_category"	:	"Kakashi Wallpaper",
+      "title"	:	"Kakashi Wallpaper 10",
+      "image"	:	"https://i.pinimg.com/564x/63/05/4c/63054c7c2ec07de3883a8b1a4928d459.jpg"
+    },
+	{		
+      "id"	:	"11",
+      "name_category"	:	"Kakashi Wallpaper",
+      "title"	:	"Kakashi Wallpaper 11",
+      "image"	:	"https://i.pinimg.com/564x/00/b7/34/00b73401ffbf937387e8b4ae95e01114.jpg"
+    },		
+    {		
+      "id"	:	"12",
+      "name_category"	:	"Kakashi Wallpaper",
+      "title"	:	"Kakashi Wallpaper 12",
+      "image"	:	"https://i.pinimg.com/564x/2b/dd/6f/2bdd6f28068817ff62a7b868b5db4939.jpg"
+    },		
+    {		
+      "id"	:	"13",
+      "name_category"	:	"Kakashi Wallpaper",
+      "title"	:	"Kakashi Wallpaper 13",
+      "image"	:	"https://i.pinimg.com/564x/46/62/63/466263ec5f3a43a1fe8823ca1d70c21a.jpg"
+    },		
+    {		
+      "id"	:	"14",
+      "name_category"	:	"Kakashi Wallpaper",
+      "title"	:	"Kakashi Wallpaper 14",
+      "image"	:	"https://i.pinimg.com/564x/9a/cf/24/9acf24862ba73110bfc0e8a7cccd9632.jpg"
+    },		
+    {		
+      "id"	:	"15",
+      "name_category"	:	"Kakashi Wallpaper",
+      "title"	:	"Kakashi Wallpaper 15",
+      "image"	:	"https://i.pinimg.com/564x/72/91/a7/7291a7f55cfa7eceb87fa0666b3ef9aa.jpg"
+    },		
+    {		
+      "id"	:	"16",
+      "name_category"	:	"Kakashi Wallpaper",
+      "title"	:	"Kakashi Wallpaper 16",
+      "image"	:	"https://i.pinimg.com/564x/bb/79/c5/bb79c5d98a4cafad70d202ffb625ee05.jpg"
+    },		
+    {		
+      "id"	:	"17",
+      "name_category"	:	"Kakashi Wallpaper",
+      "title"	:	"Kakashi Wallpaper 17",
+      "image"	:	"https://i.pinimg.com/564x/4d/36/97/4d369774cd740fb42bb36c2cd6dab06e.jpg"
+    },		
+    {		
+      "id"	:	"18",
+      "name_category"	:	"Kakashi Wallpaper",
+      "title"	:	"Kakashi Wallpaper 18",
+      "image"	:	"https://i.pinimg.com/564x/3f/39/f4/3f39f4792b262b97edfc0cafe47358bc.jpg"
+    },		
+    {		
+      "id"	:	"19",
+      "name_category"	:	"Kakashi Wallpaper",
+      "title"	:	"Kakashi Wallpaper 19",
+      "image"	:	"https://i.pinimg.com/564x/15/92/03/1592031c746044a2c9100f7912f95c3f.jpg"
+    },		
+    {		
+      "id"	:	"20",
+      "name_category"	:	"Kakashi Wallpaper",
+      "title"	:	"Kakashi Wallpaper 20",
+      "image"	:	"https://i.pinimg.com/564x/b3/52/22/b35222d2b63fc23d1108bdcafdb9ef96.jpg"
+    },
+	{		
+      "id"	:	"21",
+      "name_category"	:	"Trending",
+      "title"	:	"Kakashi Wallpaper 21",
+      "image"	:	"https://i.pinimg.com/564x/bb/79/c5/bb79c5d98a4cafad70d202ffb625ee05.jpg"
+    },		
+    {		
+      "id"	:	"22",
+      "name_category"	:	"Trending",
+      "title"	:	"Kakashi Wallpaper 22",
+      "image"	:	"https://i.pinimg.com/564x/48/48/4e/48484efe7e9a1133c9bf8baaf7b7c2f5.jpg"
+    },		
+    {		
+      "id"	:	"23",
+      "name_category"	:	"Trending",
+      "title"	:	"Kakashi Wallpaper 23",
+      "image"	:	"https://i.pinimg.com/564x/84/6e/a7/846ea7930c8b3b8f5472274c4d5b2f58.jpg"
+    },		
+    {		
+      "id"	:	"24",
+      "name_category"	:	"Trending",
+      "title"	:	"Kakashi Wallpaper 24",
+      "image"	:	"https://i.pinimg.com/564x/e0/46/db/e046db0dab95c92546592f30f2f7124f.jpg"
+    },		
+    {		
+      "id"	:	"25",
+      "name_category"	:	"Trending",
+      "title"	:	"Kakashi Wallpaper 25",
+      "image"	:	"https://i.pinimg.com/564x/4d/36/97/4d369774cd740fb42bb36c2cd6dab06e.jpg"
+    },		
+    {		
+      "id"	:	"26",
+      "name_category"	:	"Trending",
+      "title"	:	"Kakashi Wallpaper 26",
+      "image"	:	"https://i.pinimg.com/564x/be/62/3a/be623aa244c9edda3a73a5ba61e6c954.jpg"
+    },		
+    {		
+      "id"	:	"27",
+      "name_category"	:	"Trending",
+      "title"	:	"Kakashi Wallpaper 27",
+      "image"	:	"https://i.pinimg.com/564x/0c/3c/8f/0c3c8f61aea5b85833612e93dbb38f44.jpg"
+    },		
+    {		
+      "id"	:	"28",
+      "name_category"	:	"Trending",
+      "title"	:	"Kakashi Wallpaper 28",
+      "image"	:	"https://i.pinimg.com/564x/84/c6/a2/84c6a205357019326aa848ccb2151929.jpg"
+    },		
+    {		
+      "id"	:	"29",
+      "name_category"	:	"Trending",
+      "title"	:	"Kakashi Wallpaper 29",
+      "image"	:	"https://i.pinimg.com/564x/95/40/46/954046d2a9bb1e2bf591fd68f5cce55e.jpg"
+    },		
+    {		
+      "id"	:	"30",
+      "name_category"	:	"Trending",
+      "title"	:	"Kakashi Wallpaper 30",
+      "image"	:	"https://i.pinimg.com/564x/ab/37/de/ab37deb43679628f09aa97e9f9dd23f7.jpg"
+    }		
+	
+  ]
+}
