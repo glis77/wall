@@ -1,0 +1,262 @@
+{"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+    "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":2,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":3,
+      "title":"l",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":4,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":5,
+      "title":"Twibbon",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":6,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Kimetsu no Yaiba",
+      "image": "https://i.pinimg.com/564x/9b/61/ae/9b61ae7f853a1b732cafc78b7e12e0c0.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Trending",
+      "image": "https://i.pinimg.com/564x/f0/d3/87/f0d38703a89163cb7ace8e3743a4749d.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+		{		
+      "id"	:	"1",
+      "name_category"	:	"Kimetsu no Yaiba",
+      "title"	:	"Kimetsu no Yaiba 1",
+      "image"	:	"https://i.pinimg.com/564x/9b/61/ae/9b61ae7f853a1b732cafc78b7e12e0c0.jpg"
+    },		
+    {		
+      "id"	:	"2",
+      "name_category"	:	"Kimetsu no Yaiba",
+      "title"	:	"Kimetsu no Yaiba 2",
+      "image"	:	"https://i.pinimg.com/564x/d1/41/6c/d1416cba422cb80b5542a6f627e686b4.jpg"
+    },		
+    {		
+      "id"	:	"3",
+      "name_category"	:	"Kimetsu no Yaiba",
+      "title"	:	"Kimetsu no Yaiba 3",
+      "image"	:	"https://i.pinimg.com/564x/a1/fd/97/a1fd9702d6c3f0bedbc980a28b20387c.jpg"
+    },		
+    {		
+      "id"	:	"4",
+      "name_category"	:	"Kimetsu no Yaiba",
+      "title"	:	"Kimetsu no Yaiba 4",
+      "image"	:	"https://i.pinimg.com/564x/6b/20/a0/6b20a0a097fee3aa06d31d43b7b48400.jpg"
+    },		
+    {		
+      "id"	:	"5",
+      "name_category"	:	"Kimetsu no Yaiba",
+      "title"	:	"Kimetsu no Yaiba 5",
+      "image"	:	"https://i.pinimg.com/564x/39/a0/77/39a077ea19a238f787eb889606e278ae.jpg"
+    },		
+    {		
+      "id"	:	"6",
+      "name_category"	:	"Kimetsu no Yaiba",
+      "title"	:	"Kimetsu no Yaiba 6",
+      "image"	:	"https://i.pinimg.com/564x/a0/eb/41/a0eb41609b8ebccf9a707804af9e6bc3.jpg"
+    },		
+    {		
+      "id"	:	"7",
+      "name_category"	:	"Kimetsu no Yaiba",
+      "title"	:	"Kimetsu no Yaiba 7",
+      "image"	:	"https://i.pinimg.com/564x/af/37/35/af37355f781edde5e15fa4692c59eed9.jpg"
+    },		
+    {		
+      "id"	:	"8",
+      "name_category"	:	"Kimetsu no Yaiba",
+      "title"	:	"Kimetsu no Yaiba 8",
+      "image"	:	"https://i.pinimg.com/564x/a3/52/ae/a352ae95fe194696ec36768fbedeffd3.jpg"
+    },		
+    {		
+      "id"	:	"9",
+      "name_category"	:	"Kimetsu no Yaiba",
+      "title"	:	"Kimetsu no Yaiba 9",
+      "image"	:	"https://i.pinimg.com/564x/c1/a7/0b/c1a70bbbf22891a54eff0fc04e71cb63.jpg"
+    },		
+    {		
+      "id"	:	"10",
+      "name_category"	:	"Kimetsu no Yaiba",
+      "title"	:	"Kimetsu no Yaiba 10",
+      "image"	:	"https://i.pinimg.com/564x/6e/65/e3/6e65e3f52f08057dc02b4f641600a7ec.jpg"
+    },
+	{		
+      "id"	:	"11",
+      "name_category"	:	"Kimetsu no Yaiba",
+      "title"	:	"Kimetsu no Yaiba 11",
+      "image"	:	"https://i.pinimg.com/564x/43/8a/4e/438a4ef876345f698278fe2c7e0bbba5.jpg"
+    },		
+    {		
+      "id"	:	"12",
+      "name_category"	:	"Kimetsu no Yaiba",
+      "title"	:	"Kimetsu no Yaiba 12",
+      "image"	:	"https://i.pinimg.com/564x/9f/4e/02/9f4e0294acabafd697a309f5b3b899ab.jpg"
+    },		
+    {		
+      "id"	:	"13",
+      "name_category"	:	"Kimetsu no Yaiba",
+      "title"	:	"Kimetsu no Yaiba 13",
+      "image"	:	"https://i.pinimg.com/564x/e1/b1/0f/e1b10f2dec489f8a87102fa6e7cda963.jpg"
+    },		
+    {		
+      "id"	:	"14",
+      "name_category"	:	"Kimetsu no Yaiba",
+      "title"	:	"Kimetsu no Yaiba 14",
+      "image"	:	"https://i.pinimg.com/564x/3e/74/89/3e7489bf6d848d6ca8f2f21551921f1a.jpg"
+    },		
+    {		
+      "id"	:	"15",
+      "name_category"	:	"Kimetsu no Yaiba",
+      "title"	:	"Kimetsu no Yaiba 15",
+      "image"	:	"https://i.pinimg.com/564x/69/cb/50/69cb50319379b8dff21c72c936807070.jpg"
+    },		
+    {		
+      "id"	:	"16",
+      "name_category"	:	"Kimetsu no Yaiba",
+      "title"	:	"Kimetsu no Yaiba 16",
+      "image"	:	"https://i.pinimg.com/564x/b2/be/37/b2be37c2daaf1ed13f7e917e374c8a72.jpg"
+    },		
+    {		
+      "id"	:	"17",
+      "name_category"	:	"Kimetsu no Yaiba",
+      "title"	:	"Kimetsu no Yaiba 17",
+      "image"	:	"https://i.pinimg.com/564x/12/e3/64/12e36423570c4f49489ce13b8f54efce.jpg"
+    },		
+    {		
+      "id"	:	"18",
+      "name_category"	:	"Kimetsu no Yaiba",
+      "title"	:	"Kimetsu no Yaiba 18",
+      "image"	:	"https://i.pinimg.com/564x/44/3f/dd/443fdd6684c351c4dcba55b2253e9dbd.jpg"
+    },		
+    {		
+      "id"	:	"19",
+      "name_category"	:	"Kimetsu no Yaiba",
+      "title"	:	"Kimetsu no Yaiba 19",
+      "image"	:	"https://i.pinimg.com/564x/06/a4/69/06a469e20b8761f3805142ed32f4fc03.jpg"
+    },		
+    {		
+      "id"	:	"20",
+      "name_category"	:	"Kimetsu no Yaiba",
+      "title"	:	"Kimetsu no Yaiba 20",
+      "image"	:	"https://i.pinimg.com/564x/20/66/cc/2066cc45d9373e3c3b644eed39cf8274.jpg"
+    },		
+	{		
+      "id"	:	"21",
+      "name_category"	:	"Trending",
+      "title"	:	"Kimetsu no Yaiba 21",
+      "image"	:	"https://i.pinimg.com/564x/2b/d5/1e/2bd51e7f207f31cb3a571efd081aa46d.jpg"
+    },		
+    {		
+      "id"	:	"22",
+      "name_category"	:	"Trending",
+      "title"	:	"Kimetsu no Yaiba 22",
+      "image"	:	"https://i.pinimg.com/564x/d5/90/55/d590552774e04a1ccba578dedb1ae72b.jpg"
+    },		
+    {		
+      "id"	:	"23",
+      "name_category"	:	"Trending",
+      "title"	:	"Kimetsu no Yaiba 23",
+      "image"	:	"https://i.pinimg.com/564x/01/4b/77/014b77f1d385c749ae615fcc5c649ea0.jpg"
+    },		
+    {		
+      "id"	:	"24",
+      "name_category"	:	"Trending",
+      "title"	:	"Kimetsu no Yaiba 24",
+      "image"	:	"https://i.pinimg.com/564x/9b/8e/5f/9b8e5f613919c8e67770dfce7504352a.jpg"
+    },		
+    {		
+      "id"	:	"25",
+      "name_category"	:	"Trending",
+      "title"	:	"Kimetsu no Yaiba 25",
+      "image"	:	"https://i.pinimg.com/564x/3c/4e/cf/3c4ecf1785d1e920485ab8fe868448fe.jpg"
+    },		
+    {		
+      "id"	:	"26",
+      "name_category"	:	"Trending",
+      "title"	:	"Kimetsu no Yaiba 26",
+      "image"	:	"https://i.pinimg.com/564x/a3/c8/97/a3c8973f86e812343c486c44836a77a5.jpg"
+    },		
+    {		
+      "id"	:	"27",
+      "name_category"	:	"Trending",
+      "title"	:	"Kimetsu no Yaiba 27",
+      "image"	:	"https://i.pinimg.com/564x/7d/b6/f0/7db6f0fee76b4f5759f52e3d9fe9daba.jpg"
+    },		
+    {		
+      "id"	:	"28",
+      "name_category"	:	"Trending",
+      "title"	:	"Kimetsu no Yaiba 28",
+      "image"	:	"https://i.pinimg.com/564x/f0/d3/87/f0d38703a89163cb7ace8e3743a4749d.jpg"
+    },		
+    {		
+      "id"	:	"29",
+      "name_category"	:	"Trending",
+      "title"	:	"Kimetsu no Yaiba 29",
+      "image"	:	"https://i.pinimg.com/564x/dd/23/a2/dd23a2f72e1c7e81f92b73083e6cb90b.jpg"
+    },		
+    {		
+      "id"	:	"30",
+      "name_category"	:	"Trending",
+      "title"	:	"Kimetsu no Yaiba 30",
+      "image"	:	"https://i.pinimg.com/564x/64/1b/27/641b2766f55473fd0390de6f3a74c656.jpg"
+    }		
+
+		
+	
+  ]
+}
