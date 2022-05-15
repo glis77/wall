@@ -6,6 +6,9 @@
       "main_ads_intertitial":"ca-app-pub-3989213914018779/2542373400",
       "backup_ads_banner":"2adaee84fb595b66",
       "backup_ads_intertitial":"a77bdc1b95878f33",
+	    
+	"main_native_ads_Admob_or_applovin":"2adaee84fb595b66",
+      "backup_native_ads_Admob_or_applovin":"2adaee84fb595b66",
       "interval_intertitial": 0,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
