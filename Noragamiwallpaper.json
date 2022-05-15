@@ -77,183 +77,183 @@
   [
 		{		
       "id"	:	"1",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 1",
-      "image_link"	:	"https://i.pinimg.com/564x/a1/24/0d/a1240daf173c01f7959636b11df3b6ce.jpg"
+      "image"	:	"https://i.pinimg.com/564x/a1/24/0d/a1240daf173c01f7959636b11df3b6ce.jpg"
     },		
     {		
       "id"	:	"2",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 2",
-      "image_link"	:	"https://i.pinimg.com/564x/a8/aa/65/a8aa65e6191cf068337d63e22440f147.jpg"
+      "image"	:	"https://i.pinimg.com/564x/a8/aa/65/a8aa65e6191cf068337d63e22440f147.jpg"
     },		
     {		
       "id"	:	"3",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 3",
-      "image_link"	:	"https://i.pinimg.com/564x/e2/b6/18/e2b6182ccc17b88d1cc5847ffc7c20c1.jpg"
+      "image"	:	"https://i.pinimg.com/564x/e2/b6/18/e2b6182ccc17b88d1cc5847ffc7c20c1.jpg"
     },		
     {		
       "id"	:	"4",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 4",
-      "image_link"	:	"https://i.pinimg.com/564x/f1/6f/cc/f16fccc985b74c7260d48846bd2ec7b5.jpg"
+      "image"	:	"https://i.pinimg.com/564x/f1/6f/cc/f16fccc985b74c7260d48846bd2ec7b5.jpg"
     },		
     {		
       "id"	:	"5",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 5",
-      "image_link"	:	"https://i.pinimg.com/564x/4c/2e/ff/4c2eff81073735f9ba7f20083c4ea456.jpg"
+      "image"	:	"https://i.pinimg.com/564x/4c/2e/ff/4c2eff81073735f9ba7f20083c4ea456.jpg"
     },		
     {		
       "id"	:	"6",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 6",
-      "image_link"	:	"https://i.pinimg.com/564x/00/0a/c8/000ac8dda05027744548f9c8fc703256.jpg"
+      "image"	:	"https://i.pinimg.com/564x/00/0a/c8/000ac8dda05027744548f9c8fc703256.jpg"
     },		
     {		
       "id"	:	"7",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 7",
-      "image_link"	:	"https://i.pinimg.com/564x/d6/55/70/d65570012d11ee4841c89ec8b3c9d0d2.jpg"
+      "image"	:	"https://i.pinimg.com/564x/d6/55/70/d65570012d11ee4841c89ec8b3c9d0d2.jpg"
     },		
     {		
       "id"	:	"8",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 8",
-      "image_link"	:	"https://i.pinimg.com/564x/45/0e/dc/450edc16fd29fddecb6422cd3ac93d4f.jpg"
+      "image"	:	"https://i.pinimg.com/564x/45/0e/dc/450edc16fd29fddecb6422cd3ac93d4f.jpg"
     },		
     {		
       "id"	:	"9",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 9",
-      "image_link"	:	"https://i.pinimg.com/564x/76/95/35/769535c0e9e5c6483df9698fa4756e24.jpg"
+      "image"	:	"https://i.pinimg.com/564x/76/95/35/769535c0e9e5c6483df9698fa4756e24.jpg"
     },		
     {		
       "id"	:	"10",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 10",
-      "image_link"	:	"https://i.pinimg.com/564x/be/f1/7e/bef17ecc67306c0109f725885c431105.jpg"
+      "image"	:	"https://i.pinimg.com/564x/be/f1/7e/bef17ecc67306c0109f725885c431105.jpg"
     },
 	{		
       "id"	:	"11",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 11",
-      "image_link"	:	"https://i.pinimg.com/564x/38/72/5a/38725ad76e8cf93ac691467c135b812a.jpg"
+      "image"	:	"https://i.pinimg.com/564x/38/72/5a/38725ad76e8cf93ac691467c135b812a.jpg"
     },		
     {		
       "id"	:	"12",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 12",
-      "image_link"	:	"https://i.pinimg.com/564x/24/ae/e8/24aee833cc83e55fc0d24cdced03e0e3.jpg"
+      "image"	:	"https://i.pinimg.com/564x/24/ae/e8/24aee833cc83e55fc0d24cdced03e0e3.jpg"
     },		
     {		
       "id"	:	"13",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 13",
-      "image_link"	:	"https://i.pinimg.com/564x/b2/c2/fe/b2c2febc745dec0b0148d799c53d7272.jpg"
+      "image"	:	"https://i.pinimg.com/564x/b2/c2/fe/b2c2febc745dec0b0148d799c53d7272.jpg"
     },		
     {		
       "id"	:	"14",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 14",
-      "image_link"	:	"https://i.pinimg.com/564x/c8/e4/6c/c8e46cd3d7a56236ada3d60a1679cdf4.jpg"
+      "image"	:	"https://i.pinimg.com/564x/c8/e4/6c/c8e46cd3d7a56236ada3d60a1679cdf4.jpg"
     },		
     {		
       "id"	:	"15",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 15",
-      "image_link"	:	"https://i.pinimg.com/564x/d4/70/d2/d470d264dd126830128576a7c524f561.jpg"
+      "image"	:	"https://i.pinimg.com/564x/d4/70/d2/d470d264dd126830128576a7c524f561.jpg"
     },		
     {		
       "id"	:	"16",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 16",
-      "image_link"	:	"https://i.pinimg.com/564x/2a/40/8f/2a408fab15d09d926c15bf16cd1e9c7e.jpg"
+      "image"	:	"https://i.pinimg.com/564x/2a/40/8f/2a408fab15d09d926c15bf16cd1e9c7e.jpg"
     },		
     {		
       "id"	:	"17",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 17",
-      "image_link"	:	"https://i.pinimg.com/564x/14/17/4a/14174a3eee2f07132c28a0046762e62c.jpg"
+      "image"	:	"https://i.pinimg.com/564x/14/17/4a/14174a3eee2f07132c28a0046762e62c.jpg"
     },		
     {		
       "id"	:	"18",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 18",
-      "image_link"	:	"https://i.pinimg.com/564x/54/d4/5a/54d45ae60d299eada5c38bd862788dda.jpg"
+      "image"	:	"https://i.pinimg.com/564x/54/d4/5a/54d45ae60d299eada5c38bd862788dda.jpg"
     },		
     {		
       "id"	:	"19",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 19",
-      "image_link"	:	"https://i.pinimg.com/564x/18/63/aa/1863aa0d9c92524d83d0cbca7e3976f9.jpg"
+      "image"	:	"https://i.pinimg.com/564x/18/63/aa/1863aa0d9c92524d83d0cbca7e3976f9.jpg"
     },		
     {		
       "id"	:	"20",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 20",
-      "image_link"	:	"https://i.pinimg.com/564x/b3/ac/63/b3ac63a07fd6fac9df58f45164b11061.jpg"
+      "image"	:	"https://i.pinimg.com/564x/b3/ac/63/b3ac63a07fd6fac9df58f45164b11061.jpg"
     },	
 	{		
       "id"	:	"21",
-      "category"	:	"Noragami Trending",
+      "name_category"	:	"Noragami Trending",
       "title"	:	"Noragami Wallpaper 21",
-      "image_link"	:	"https://i.pinimg.com/564x/62/99/17/629917105795da4d6d1a99b4daa6bd30.jpg"
+      "image"	:	"https://i.pinimg.com/564x/62/99/17/629917105795da4d6d1a99b4daa6bd30.jpg"
     },		
     {		
       "id"	:	"22",
-      "category"	:	"Noragami Trending",
+      "name_category"	:	"Noragami Trending",
       "title"	:	"Noragami Wallpaper 22",
-      "image_link"	:	"https://i.pinimg.com/564x/bc/dd/0d/bcdd0ddb6a17c0e21a218406badd4171.jpg"
+      "image"	:	"https://i.pinimg.com/564x/bc/dd/0d/bcdd0ddb6a17c0e21a218406badd4171.jpg"
     },		
     {		
       "id"	:	"23",
-      "category"	:	"Noragami Trending",
+      "name_category"	:	"Noragami Trending",
       "title"	:	"Noragami Wallpaper 23",
-      "image_link"	:	"https://i.pinimg.com/564x/b3/ac/63/b3ac63a07fd6fac9df58f45164b11061.jpg"
+      "image"	:	"https://i.pinimg.com/564x/b3/ac/63/b3ac63a07fd6fac9df58f45164b11061.jpg"
     },		
     {		
       "id"	:	"24",
-      "category"	:	"Noragami Trending",
+      "name_category"	:	"Noragami Trending",
       "title"	:	"Noragami Wallpaper 24",
-      "image_link"	:	"https://i.pinimg.com/564x/a5/ad/13/a5ad135554a903aa626896feee23ef6c.jpg"
+      "image"	:	"https://i.pinimg.com/564x/a5/ad/13/a5ad135554a903aa626896feee23ef6c.jpg"
     },		
     {		
       "id"	:	"25",
-      "category"	:	"Noragami Trending",
+      "name_category"	:	"Noragami Trending",
       "title"	:	"Noragami Wallpaper 25",
-      "image_link"	:	"https://i.pinimg.com/564x/79/86/67/7986679a7c866e2fd4bf3fe06fe37e4a.jpg"
+      "image"	:	"https://i.pinimg.com/564x/79/86/67/7986679a7c866e2fd4bf3fe06fe37e4a.jpg"
     },		
     {		
       "id"	:	"26",
-      "category"	:	"Noragami Trending",
+      "name_category"	:	"Noragami Trending",
       "title"	:	"Noragami Wallpaper 26",
-      "image_link"	:	"https://i.pinimg.com/564x/06/33/72/06337221832500c6166ad2e189654fc5.jpg"
+      "image"	:	"https://i.pinimg.com/564x/06/33/72/06337221832500c6166ad2e189654fc5.jpg"
     },		
     {		
       "id"	:	"27",
-      "category"	:	"Noragami Trending",
+      "name_category"	:	"Noragami Trending",
       "title"	:	"Noragami Wallpaper 27",
-      "image_link"	:	"https://i.pinimg.com/564x/ef/b6/ff/efb6ffa6337a2e420e227eb963653acc.jpg"
+      "image"	:	"https://i.pinimg.com/564x/ef/b6/ff/efb6ffa6337a2e420e227eb963653acc.jpg"
     },		
     {		
       "id"	:	"28",
-      "category"	:	"Noragami Trending",
+      "name_category"	:	"Noragami Trending",
       "title"	:	"Noragami Wallpaper 28",
-      "image_link"	:	"https://i.pinimg.com/564x/89/6e/f4/896ef48c459466e9c679d870d72aa9a1.jpg"
+      "image"	:	"https://i.pinimg.com/564x/89/6e/f4/896ef48c459466e9c679d870d72aa9a1.jpg"
     },		
     {		
       "id"	:	"29",
-      "category"	:	"Noragami Trending",
+      "name_category"	:	"Noragami Trending",
       "title"	:	"Noragami Wallpaper 29",
-      "image_link"	:	"https://i.pinimg.com/564x/a4/80/d0/a480d07a3b29bc64d9dccc33aa3ebefe.jpg"
+      "image"	:	"https://i.pinimg.com/564x/a4/80/d0/a480d07a3b29bc64d9dccc33aa3ebefe.jpg"
     },		
     {		
       "id"	:	"30",
-      "category"	:	"Noragami Wallpaper",
+      "name_category"	:	"Noragami Wallpaper",
       "title"	:	"Noragami Wallpaper 30",
-      "image_link"	:	"https://i.pinimg.com/564x/aa/a7/e2/aaa7e27adae798bb7436079ff9208c23.jpg"
+      "image"	:	"https://i.pinimg.com/564x/aa/a7/e2/aaa7e27adae798bb7436079ff9208c23.jpg"
     }		
 
   ]
